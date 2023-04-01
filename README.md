@@ -2,12 +2,17 @@ Lottery Machine made with Javascript.
 
 To run,
  
-Clone the repository to your machine;
+1. Clone the repository to your machine;
 
-Ensure you have Node.js installed;
+#!/bin/bash
+git clone https://github.com/wathika-eng/lottery-
 
-cd to the cloned repository folder;
+2. Ensure you have Node.js installed - https://nodejs.org/en/download
 
-Then type node index.js on your terminal.
+3. cd to the cloned repository folder;
+
+4. On the terminal of your code editor, type npm i prompt-sync
+
+5. Then type node index.js on your terminal.
 
 All instructions on how it was made provided as comments in the index.js file.
