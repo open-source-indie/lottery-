@@ -4,7 +4,6 @@ To run,
  
 1. Clone the repository to your machine;
 ```
-#!/bin/bash
 git clone https://github.com/wathika-eng/lottery-
 ```
 2. Ensure you have Node.js installed - https://nodejs.org/en/download
